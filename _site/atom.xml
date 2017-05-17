@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Poole</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2017-05-16T19:00:31-05:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://getpoole.com/atom.xml" rel="self"/>
+ <link href="http://getpoole.com/"/>
+ <updated>2017-05-16T19:07:45-05:00</updated>
+ <id>http://getpoole.com</id>
  <author>
    <name>Ma</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Introduction</title>
-   <link href="http://localhost:4000/2016/01/03/introduction/"/>
+   <link href="http://getpoole.com/2016/01/03/introduction/"/>
    <updated>2016-01-03T00:00:00-06:00</updated>
-   <id>http://localhost:4000/2016/01/03/introduction</id>
+   <id>http://getpoole.com/2016/01/03/introduction</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -62,9 +62,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://localhost:4000/2016/01/02/example-content/"/>
+   <link href="http://getpoole.com/2016/01/02/example-content/"/>
    <updated>2016-01-02T00:00:00-06:00</updated>
-   <id>http://localhost:4000/2016/01/02/example-content</id>
+   <id>http://getpoole.com/2016/01/02/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -152,6 +152,13 @@
 
 &lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
 
+&lt;noscript&gt;&lt;pre&gt;Here&amp;#39;s an example of how to embed a Gist on GitHub Pages:
+
+```
+{% gist 5555251 %}
+```
+
+All you need to do is copy and paste the Gist&amp;#39;s ID from the URL (here `5555251`), and add it to a `gist` tag surrounded by `{%` and `%}`.&lt;/pre&gt;&lt;/noscript&gt;
 &lt;script src=&quot;https://gist.github.com/13f94b734a4ddb132735.js?file=gist.md&quot;&gt; &lt;/script&gt;
 
 &lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
@@ -253,9 +260,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/2016/01/01/whats-jekyll/"/>
+   <link href="http://getpoole.com/2016/01/01/whats-jekyll/"/>
    <updated>2016-01-01T00:00:00-06:00</updated>
-   <id>http://localhost:4000/2016/01/01/whats-jekyll</id>
+   <id>http://getpoole.com/2016/01/01/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
