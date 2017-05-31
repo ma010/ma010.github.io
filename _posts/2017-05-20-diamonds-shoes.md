@@ -9,7 +9,7 @@ title: Diamonds found in the shoe box -- Being skeptical as a Data Scientist
 
 <!-- It's an immensely useful tool and one we encourage you to use here with Lanyon. -->
 
-I started playing with interesting data sets on Kaggle. There's one called [Women's Shoe Prices](https://www.kaggle.com/datafiniti/womens-shoes-prices) -- A list of 10,000 women's shoes and the prices at which they are sold. I was intrigued by earlier analyses which showed shoes could be sold for more than 3000 USD. Then I dug into the data and found out lots of the pricey stuff were actually wedding bands or jeweleries. Also, there were other inexpensive but non-shoe stuff such as t-shirt and bra. The data provider later promptly updated the raw shoe data after my analysis.
+I started playing with interesting data sets on Kaggle. There's one called [Women's Shoe Prices](https://www.kaggle.com/datafiniti/womens-shoes-prices) -- A list of 10,000 women's shoes and the prices at which they are sold. I was intrigued by earlier analyses which showed shoes could be sold for more than 3000 USD. Then I dug into the data and found out lots of the pricey stuff were actually wedding bands or jewelry. Also, there were other inexpensive but non-shoe stuff such as t-shirt and bra. The data provider later promptly updated the raw shoe data after my analysis.
 
 
 Find out more by [visiting my Kaggle discussions](https://www.kaggle.com/datafiniti/womens-shoes-prices/discussion/32961).
