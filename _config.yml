@@ -17,8 +17,8 @@ paginate:            5
 # About/contact
 author:
   name:              MA
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               https://github.com/ma010
+  email:
 
 # Custom vars
 version:             1.0.0
