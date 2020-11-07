@@ -6,4 +6,4 @@ date: 2020-11-06
 
 I am open to chat about education, data science, data-informed strategy,
 life in NYC, or any idea that you feel like talking about or potentially finding
-people to work together.
+people to work together. Please reach out with a brief introduction about yourself or a resume
