@@ -4,7 +4,12 @@ title: About
 ---
 
 
-Welcome to my personal blog.
+This is Nathan Xiufeng Ma. I got my Ph.D. in Geophysical Sciences from University
+of Chicago in early 2018. My research was about understanding the metabolisms of photosynthetic bacteria and its interactions with viruses in the surface ocean, and how they
+could make an impact on the global carbon dioxide cycle. In the meantime, to broaden my view,
+I was fortunate to have support from my advisors to study at the Booth School of Business and UChicago Law School.
+
+I am currently a Senior Data Scientist at [Octane](https://octane.co).  
 
 <!-- There are currently two themes built on Poole: -->
 
@@ -22,7 +27,5 @@ Welcome to my personal blog.
 <!-- * Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor -->
 <!-- * Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series) -->
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/ma010/ma010.github.io)
- <!-- or [ask me on Twitter](https://twitter.com/mdo). -->
 
-Thanks for reading!
+ <!-- or [ask me on Twitter](https://twitter.com/mdo). -->
