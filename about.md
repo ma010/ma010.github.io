@@ -6,7 +6,9 @@ title: About
 
 This is Nathan Xiufeng Ma. I got my Ph.D. in Geophysical Sciences from University
 of Chicago in early 2018. My research was about understanding the metabolisms of photosynthetic bacteria and its interactions with viruses in the surface ocean, and how they
-could make an impact on the global carbon dioxide cycle. In the meantime, to broaden my view,
+could make an impact on the global carbon dioxide cycle.
+
+In the meantime, to broaden my view,
 I was fortunate to have support from my advisors to study at the Booth School of Business and UChicago Law School.
 
 I am currently a Senior Data Scientist at [Octane](https://octane.co).  
