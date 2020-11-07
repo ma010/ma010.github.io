@@ -4,7 +4,7 @@ title: About
 ---
 
 
-Blog for Data Science and beyond.
+Welcome to my personal blog.
 
 <!-- There are currently two themes built on Poole: -->
 
@@ -22,7 +22,7 @@ Blog for Data Science and beyond.
 <!-- * Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor -->
 <!-- * Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series) -->
 
- Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/ma010/ma010.github.io)
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/ma010/ma010.github.io)
  <!-- or [ask me on Twitter](https://twitter.com/mdo). -->
 
 Thanks for reading!
